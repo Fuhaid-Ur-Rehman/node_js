@@ -4,8 +4,6 @@ my first repository
 <br>
 author:Fuhaid ur Rehman
 <br>
-<code>
-  <script>
-    console.log("Hello");
-  </script>
-</code>
+
+copyCodeBlock('<div>Thundercats</div>')
+
