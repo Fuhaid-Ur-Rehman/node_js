@@ -77,7 +77,7 @@ To run tests, run the following command
 
 ## Usage/Examples
 
-```javascript
+```c++
 import Component from 'my-project'
 
 function App() {
